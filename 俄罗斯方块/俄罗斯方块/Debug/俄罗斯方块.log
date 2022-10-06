@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(128,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(182,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(182,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(193,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(193,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\俄罗斯方块\main.cpp(206,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  俄罗斯方块.vcxproj -> D:\MyTuTuHead\C++ Code\俄罗斯方块\俄罗斯方块\Debug\俄罗斯方块.exe
